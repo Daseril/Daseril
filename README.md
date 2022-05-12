@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Daseril
+- 👀 I’m interested in art and making games.
+- 🌱 I’m currently learning how to make games in Godot.
+- 📫 How to reach me: twitter = @Daseril1
